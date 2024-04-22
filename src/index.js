@@ -8,4 +8,4 @@ import LandingPage from './Component/LandingPage';
 import Explore from './Component/Explore';
 import Main from './Component/Main';
 const app = ReactDOM.createRoot(document.getElementById("root"));
-app.render(<><Navbar/><LandingPage/><Explore/><Search/><Main/></>);
+app.render(<><Navbar/><LandingPage/><Explore/><Main/></>);
