@@ -3,7 +3,8 @@ function Card({val}) {
   return (
     
 
-<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-8">
+<div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-8 hover:shadow-xl
+    transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-90  duration-300 justify-center cursor-pointer relative p-2">
     <a href="#">
         <img class="rounded-t-lg" src={val.img} width="500px" alt="" />
     </a>
