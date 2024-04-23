@@ -98,6 +98,15 @@ export const data = [
         img:"https://i.ytimg.com/vi/agxDK0qmH88/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3oxzWGc_Lt2H0lvTZDon1axbXAQ",
         lang:"English",
         key:"flutter app development"
+    },
+      {
+        title:"Arrays Playlist | DSA | Placements",
+        name: "TakeUForward",
+        price:"unpaid",
+        url:"https://www.youtube.com/watch?v=37E9ckMDdTk&list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB",
+        img:"https://i.ytimg.com/vi/37E9ckMDdTk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOv2nvt88NSy_q11opuop6uh1ffA",
+        lang:"English",
+        key:"DSA Array Basics of DSA "
     }
    
 ]
