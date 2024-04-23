@@ -80,6 +80,15 @@ export const data = [
         img:"https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/blockchain1.png",
         lang:"English",
         key:"blockchain"
+    },
+    {
+        title:"Arrays Playlist | DSA | Placements",
+        name: "TakeUForward",
+        price:"unpaid",
+        url:"https://www.youtube.com/watch?v=37E9ckMDdTk&list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB",
+        img:"https://i.ytimg.com/vi/37E9ckMDdTk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOv2nvt88NSy_q11opuop6uh1ffA",
+        lang:"English",
+        key:"DSA Array Basics of DSA "
     }
    
 ]
