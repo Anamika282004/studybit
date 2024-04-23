@@ -80,6 +80,24 @@ export const data = [
         img:"https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/blockchain1.png",
         lang:"English",
         key:"blockchain"
+    },
+    {
+        title:"Flutter Application",
+        name: "Codepur",
+        price:"unpaid",
+        url:"https://youtu.be/qWL1lGchpRA?si=cwMETv8qlFeMdfUG",
+        img:"https://digitalpress.fra1.cdn.digitaloceanspaces.com/zn3wniw/2021/02/f1.png",
+        lang:"English",
+        key:"flutter app development"
+    },
+    {
+        title:"Firebase Authentication",
+        name: "Codepur",
+        price:"unpaid",
+        url:"https://www.youtube.com/playlist?list=PLFyjjoCMAPtxS6Cx1XSjCfxOxHQ4_e0sL",
+        img:"https://i.ytimg.com/vi/agxDK0qmH88/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3oxzWGc_Lt2H0lvTZDon1axbXAQ",
+        lang:"English",
+        key:"flutter app development"
     }
    
 ]
