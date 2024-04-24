@@ -7,5 +7,14 @@ import Search from './Component/Search';
 import LandingPage from './Component/LandingPage';
 import Explore from './Component/Explore';
 import Main from './Component/Main';
+import Review from './Component/Review';
 const app = ReactDOM.createRoot(document.getElementById("root"));
-app.render(<><Navbar/><LandingPage/><Explore/><Main/></>);
+app.render(
+        <>
+        <Navbar/>
+        <LandingPage/>
+        <Explore/>
+        <Main/>
+        <Review/>
+        </>
+    );
