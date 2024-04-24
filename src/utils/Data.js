@@ -107,6 +107,33 @@ export const data = [
         img:"https://i.ytimg.com/vi/37E9ckMDdTk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAOv2nvt88NSy_q11opuop6uh1ffA",
         lang:"English",
         key:"DSA Array Basics of DSA "
-    }
+    },
+    {
+      title:"DSA for GATE",
+      name: "Amit Khurana",
+      price:"unpaid",
+      url:"https://www.youtube.com/watch?v=dBe1EnUpBaA&list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy&pp=iAQB",
+      img:"https://i.ytimg.com/vi/dBe1EnUpBaA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASzpSserqyXMcj8pmoZ8EwCnPGKQ",
+      lang:"Hinglish",
+      key:"DSA GATE DSA Algo Algorithm"
+  },
+  {
+    title:"DSA for GATE",
+    name: "Amit Khurana",
+    price:"unpaid",
+    url:"https://www.youtube.com/watch?v=dBe1EnUpBaA&list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy&pp=iAQB",
+    img:"https://i.ytimg.com/vi/dBe1EnUpBaA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASzpSserqyXMcj8pmoZ8EwCnPGKQ",
+    lang:"Hinglish",
+    key:"DSA GATE DSA Algo Algorithm"
+},
+{
+  title:"DSA for GATE",
+  name: "Amit Khurana",
+  price:"unpaid",
+  url:"https://www.youtube.com/watch?v=dBe1EnUpBaA&list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy&pp=iAQB",
+  img:"https://i.ytimg.com/vi/dBe1EnUpBaA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASzpSserqyXMcj8pmoZ8EwCnPGKQ",
+  lang:"Hinglish",
+  key:"DSA GATE DSA Algo Algorithm"
+}
    
 ]
