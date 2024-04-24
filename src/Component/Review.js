@@ -5,6 +5,7 @@ import Reviewinnercard from './Reviewinnercard';
 
 function Review() {
   return (
+    <>
     <div className="container d-flex justify-content-center align-items-center vh-100">
       <div id="carouselExample" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
@@ -35,6 +36,7 @@ function Review() {
         </button>
       </div>
     </div>
+    </>
   );
 }
 
