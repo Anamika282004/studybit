@@ -4,16 +4,12 @@ function Card({val}) {
     
 
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-8 hover:shadow-xl
-    transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-90  duration-300 justify-center cursor-pointer relative p-2">
-    <a href="#">
+    transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-90  duration-300 justify-center cursor-pointer relative">
         <img class="rounded-t-lg" src={val.img} width="500px" alt="" />
-    </a>
     <div class="p-5">
-        <a href="#">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{val.name}</h5>
             <h6 class="mb-2 text-m  tracking-tight text-gray-900 dark:text-white">{val.price}</h6>
             <h6 class="mb-2 text-m  tracking-tight text-gray-900 dark:text-white">{val.lang}</h6>
-        </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{val.title}</p>
         <a href={val.url} target='blank' class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
             Explore Here
