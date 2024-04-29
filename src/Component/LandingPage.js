@@ -54,7 +54,7 @@ function LandingPage() {
         <img className="mt-32" src="https://img.freepik.com/free-vector/futuristic-classroom-little-children-study-with-high-tech-equipment_335657-3308.jpg" alt="courses" />
       </div>
       {showChat ? (
-        <div className="fixed bottom-0 right-0 m-8 bg-white p-4 rounded shadow w-80 h-[80vh] overflow-scroll flex flex-col">
+        <div className="fixed bottom-0 right-0 m-8 bg-white p-4 rounded shadow w-80 h-[80vh] overflow-scroll flex flex-col z-1">
           <FontAwesomeIcon icon={faTimes} className="absolute top-1 right-2 cursor-pointer text-gray-500" onClick={clearChat} />
           <div className="flex-grow">
             {question && (
