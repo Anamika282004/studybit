@@ -5,6 +5,7 @@ import Navbar from './Component/Navbar';
 import LandingPage from './Component/LandingPage';
 import Explore from './Component/Explore';
 import Main from './Component/Main';
+import Footer from './Component/Footer';
 import Testimonials from './Component/Testimonials';
 const app = ReactDOM.createRoot(document.getElementById("root"));
 app.render(
@@ -14,5 +15,6 @@ app.render(
         <Explore/>
         <Main/>
         <Testimonials/>
+        <Footer/>
         </>
     );
