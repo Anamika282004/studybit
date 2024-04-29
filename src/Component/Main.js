@@ -33,7 +33,7 @@ function Main() {
         </form>
          </div>
         <div class="flex justify-around flex-wrap mt-6 p-8"> 
-            {copyval.length==0 ? <p>Sorry, We couldn't find anything!</p> : store}
+            {copyval.length===0 ? <p>Sorry, We couldn't find anything!</p> : store}
         </div>
    </>
   )
