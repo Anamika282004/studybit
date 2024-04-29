@@ -5,7 +5,7 @@ import Navbar from './Component/Navbar';
 import LandingPage from './Component/LandingPage';
 import Explore from './Component/Explore';
 import Main from './Component/Main';
-import Review from './Component/Review';
+import Testimonials from './Component/Testimonials';
 const app = ReactDOM.createRoot(document.getElementById("root"));
 app.render(
         <>
@@ -13,6 +13,6 @@ app.render(
         <LandingPage/>
         <Explore/>
         <Main/>
-        <Review/>
+        <Testimonials/>
         </>
     );
